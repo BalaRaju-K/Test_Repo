@@ -1,5 +1,3 @@
 # Changing Repo in GIT
 
-
-
-A second Line from local computer
+A new line from GIT
